@@ -50,21 +50,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e3ac7962b8df3296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1尊都/佳都.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,10 +179,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e3ac7962b8df3296",
+  "active": "2a26721c91c00591",
   "lastOpenFiles": [
-    "未命名.md",
+    "未命名 1尊都/Pasted image 20231006113433.png",
     "未命名 1尊都/佳都.md",
+    "Pasted image 20231006113301.png",
+    "Pasted image 20231006113103.png",
+    "Pasted image 20231006113213.png",
+    "Pasted image 20231006113250.png",
+    "未命名.md",
     "未命名/markdownB.md",
     "未命名 1尊都",
     "未命名",
